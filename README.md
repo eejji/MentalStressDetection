@@ -12,3 +12,36 @@ WESAD 데이터 세트를 사용하여 정신적 스트레스 분류
 
 ### 3초 동안 기록된 ECG 정상 신호
 ![image](https://github.com/eejji/MentalStressDetection/assets/124345335/9f312fc2-a9f6-4d79-83ed-e32d3c584feb)
+
+### 원래의 신호와 필터링 된 신호
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/895b57f2-d248-4181-bf41-700e22f2818c)
+
+### R-peak 지점 기준 100개, 200개, 300개, 400개 샘플까지 나눈 이미지의 검증정확도
+- 테스트 이미지의 정확도로 비교못한 부분에서 아쉬운 점이 있음.
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/648cb065-30ac-4ee1-9353-eb098dd47f3b)
+
+
+### 필터링 된 신호와 변환된 스펙토그램 
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/9eff52ab-6789-4af9-b845-4661cf4fc440)
+
+### 신호 분류 과정 
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/b0fc14b0-1916-4742-9644-83ba89cf2ac1)
+
+
+## 모델링
+
+###  CNN 구조 
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/781b1988-40fe-4e0e-8d8b-bbdfa55d9ecd)
+
+
+## 실험 결과 
+### 모델 검증 정확도 비교 
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/1cdc0a23-e7fa-4a35-9e58-dff5c7e6606a)
+
+### 필터링 신호의 이미지 혼동행렬 
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/1474f031-7f2f-4be9-bb23-ff5a01e20396)
+
+### 스펙토그램 이미지 혼동행렬
+![image](https://github.com/eejji/MentalStressDetection/assets/124345335/99eedb99-41aa-4bbc-8d75-0e69ac323ec3)
+
+
