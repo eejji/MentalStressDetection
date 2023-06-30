@@ -17,8 +17,8 @@ WESAD 데이터 세트를 사용하여 정신적 스트레스 분류
 ![image](https://github.com/eejji/MentalStressDetection/assets/124345335/895b57f2-d248-4181-bf41-700e22f2818c)
 
 ### R-peak 지점 기준 100개, 200개, 300개, 400개 샘플까지 나눈 이미지의 검증정확도
-- 테스트 이미지의 정확도로 비교못한 부분에서 아쉬운 점이 있음.
 ![image](https://github.com/eejji/MentalStressDetection/assets/124345335/648cb065-30ac-4ee1-9353-eb098dd47f3b)
+- 테스트 이미지의 정확도로 비교못한 부분에서 아쉬운 점이 있음.
 
 
 ### 필터링 된 신호와 변환된 스펙토그램 
